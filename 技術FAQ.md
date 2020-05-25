@@ -39,3 +39,6 @@ A.主要方法有下列幾種：
 - UDP(User Defined Primitive)，建立客製化3D模型
 - 將資料輸出到外部用Cpython處理(Anaconda)
 - 透過批次檔控制AEDT完成前處理及後處理
+
+---
+
