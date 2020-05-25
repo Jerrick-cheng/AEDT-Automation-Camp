@@ -30,7 +30,7 @@ A. 一般的Python又稱為Cpython。兩者的語法是類似的，內建基本�
 ---
 Q. 在AEDT執行自動化程式的方式有哪些？
 
-A.主要方法有下列幾種：
+A. 主要方法有下列幾種：
 - 從Automation執行script
 - 從Toolkit執行script
 - 熱鍵執行script
