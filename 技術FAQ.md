@@ -1,5 +1,6 @@
 
 Q1. 我需要很會寫Python程式才能在AEDT上開發自動化程式嗎？
+
 A1. 不需要，自動化程式不會用到複雜的語法，只要知道下面這些就夠了：
 - 基本型別及運算: string, int, float, boolean
 - 基本型別資料結構及運算： list, tuple, dictionary
@@ -11,6 +12,7 @@ A1. 不需要，自動化程式不會用到複雜的語法，只要知道下面�
 - 類別定義 class foo():
 
 Q2. 是不是學會Python就可以開發自動化程式了
+
 A2. 並不是。除了基本語法之外，你還要熟悉以下這些函式庫，你才能透過Python控制函式庫來與AEDT互動
 - 基本函式庫：math, os, sys,...
 - 進階函式庫：re, tkinter, matplotlib,...
