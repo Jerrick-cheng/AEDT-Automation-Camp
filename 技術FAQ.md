@@ -79,11 +79,25 @@ A. 簡單的程式數十行代碼即可完成，開發時間不過數十分鐘�
 Q. 可以簡單介紹一下AEDT的函式庫嗎？
 
 A. AEDT函式庫分成Desktop, Project, Design, Editor, Module等大類，Module底下又分成多個小類。比方說是要在專案底下加入新的設計，我們便可以使用oProject.InsertDesign()函數來完成。從功能區分，可分成CURD(Create:
-建立, Update:更新, Read:讀取, Delete:刪除)四大塊。比方說是InsertDesign()屬於建立, SetActiveDesign()算是更新，GetName()屬於讀取，CutDesign()屬於刪除。當中CUD類可以透過錄製得到，而R類需要透過文件來查找。
+建立, Update:更新, Read:讀取, Delete:刪除)四大塊。比方說是InsertDesign()屬於建立, SetActiveDesign()算是更新，GetName()屬於讀取，CutDesign()屬於刪除。當中CUD類可以透過錄製得到，而R類需要透過文件來查找。關於函式庫的Help檔可以在C:\Program Files\AnsysEM\AnsysEM20.1\Win64\Help底下找到ScriptingGuide.pdf當中詳細說明了函式的功能及使用方法。
 
 ---
 
+Q. 如何讓使用者輸入參數到腳本當中？
 
+A. 由易到難，有下列幾種方法：
+1. 讓使用者在AEDT Properties視窗輸入參數，缺點是無法建立複雜的控件，如下拉式選單，或Radio Button。
+2. 建立使用者介面。在Iron Python當中，有兩種方法可以產生使用者介面：
+- Tkinter (Linux & Windows)，用代碼方式編寫，較為繁複。
+- WPF (Windows)，可用拖放方法建立GUI，程式與介面分離。
+3. 包裝成ACT(ANSYS Custom Toolkit)，ACT當中有較多控件可以使用。
+
+---
+
+Q. 如何不讓別人看到我腳本的程式碼？
+A. 有兩種手段:
+1. 編譯成.dll
+2. 包裝成ACT(ANSYS Custom Toolkit)
 
 
 
