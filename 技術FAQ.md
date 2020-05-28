@@ -88,8 +88,8 @@ Q. 如何讓使用者輸入參數到腳本當中？
 A. 由易到難，有下列幾種方法：
 1. 讓使用者在AEDT Properties視窗輸入參數，缺點是無法建立複雜的控件，如下拉式選單，或Radio Button。
 2. 建立使用者介面。在Iron Python當中，有兩種方法可以產生使用者介面：
-- Tkinter (Linux & Windows)，用代碼方式編寫，較為繁複。
-- WPF (Windows)，可用拖放方法建立GUI，程式與介面分離。
+    - Tkinter (Linux & Windows)，用代碼方式編寫，較為繁複。
+    - WPF (Windows)，可用拖放方法建立GUI，程式與介面分離。
 3. 包裝成ACT(ANSYS Custom Toolkit)，ACT當中有較多控件可以使用。
 
 ---
