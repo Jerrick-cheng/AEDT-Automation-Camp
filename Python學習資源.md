@@ -15,3 +15,9 @@ tkinter範例代碼
 
 Python語法錯誤類別
 - https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-edd15e2b5d1e
+
+Matplotlib圖庫
+- https://matplotlib.org/3.1.1/gallery/index.html
+
+AEDT自動化範例影片(40+)
+- https://www.youtube.com/watch?v=oQUabN9sYb8&list=PLpbpz5laqqpGKTqmPwByUtVCVtSZwZFUb
