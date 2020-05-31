@@ -19,5 +19,12 @@ Python語法錯誤類別
 Matplotlib圖庫
 - https://matplotlib.org/3.1.1/gallery/index.html
 
+html標籤
+- https://www.w3schools.com/tags/tag_html.asp
+
+html表格產生器
+- https://www.tablesgenerator.com/html_tables#
+
 AEDT自動化範例影片(40+)
 - https://www.youtube.com/watch?v=oQUabN9sYb8&list=PLpbpz5laqqpGKTqmPwByUtVCVtSZwZFUb
+
