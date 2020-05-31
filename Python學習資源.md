@@ -20,7 +20,7 @@ Matplotlib圖庫
 - https://matplotlib.org/3.1.1/gallery/index.html
 
 html標籤
-- https://www.w3schools.com/tags/tag_html.asp
+- https://www.w3schools.com/tags/ref_byfunc.asp
 
 html表格產生器
 - https://www.tablesgenerator.com/html_tables#
