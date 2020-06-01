@@ -1,5 +1,10 @@
-推薦入門學習網站
+推薦Python學習網站
+入門
 - https://djangogirlstaipei.herokuapp.com/tutorials/python/?os=windows
+基本
+- https://www.w3schools.com/python/
+- https://www.tutorialspoint.com/python/index.htm
+
 
 推薦入門紙本教材 
 - https://www.books.com.tw/products/0010834816?gclid=EAIaIQobChMIv5TC35PM6QIVEK6WCh202AozEAQYASABEgIcxvD_BwE
