@@ -1,0 +1,26 @@
+Quantity                 Freq          Value              
+Max U                    28GHz       303.532544 mW/sr     
+Peak Directivity                       4.289526           
+Peak Gain                              4.332557           
+Peak Realized Gain                     3.814392           
+Peak System Gain                       3.814392           
+Radiated Power                       889.234040 mW        
+Accepted Power                       880.402090 mW        
+Incident Power                         1.000000 W         
+System Power                           1.000000 W         
+Radiation Efficiency                   1.010032           
+Front to Back Ratio                  109.572329           
+Decay Factor                           0.000000           
+
+rE Field               Freq          Value          (Theta, Phi)        
+Total                  28GHz        15.128236 V     (23deg,-117deg)     
+X                                   11.200836 V     (19deg,-127deg)     
+Y                                   10.229028 V     (20deg,-99deg)      
+Z                                    8.939083 V     (59deg,146deg)      
+Phi                                 14.774681 V     (21deg,-127deg)     
+Theta                               14.563459 V     (27deg,-48deg)      
+LHCP                                 9.468433 V     (30deg,-125deg)     
+RHCP                                12.425393 V     (18deg,-114deg)     
+Ludwig3/X dominant                  11.224854 V     (16deg,-138deg)     
+Ludwig3/Y dominant                  11.205931 V     (31deg,-50deg)      
+

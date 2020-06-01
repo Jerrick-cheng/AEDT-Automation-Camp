@@ -1,0 +1,206 @@
+HFSS Profile
+  Project:           ArrayModule_4x2_28G
+  Design:            HFSSDesign2
+  Solution setup:    Setup1
+
+Task                                                        Real Time  CPU Time  Memory  Information
+----                                                        ---------  --------  ------  -----------
+
+Start                                                                                    Time:  10/19/2019 08:36:06; Host: HSIMLIN; Processor: 4; OS: NT 10.0; HFSS 2019.3.0
+                                                                                         Executing from C:\Program Files\AnsysEM\AnsysEM19.5\Win64\HFSSCOMENGINE.exe
+                                                                                         HPC Enabled
+                                                                                         Allow off core: True
+                                                                                         Using automatic settings
+                                                                                         Machines:
+                                                                                         hsimlin.win.ansys.com [63.9 GB]: RAM Limit: 90.000000%, 4 cores
+                                                                                         Solution Basis Order: 1
+                                                                                         
+Design Validation                                                                        Elapsed time : 00:00:00 , Hfss ComEngine Memory : 71.2 M
+                                                                                         Perform full validations with standard port validations
+                                                                                         
+Initial Meshing                                                                          Time:  10/19/2019 08:36:06
+Volume                                                                                   
+  Mesh TAU4                                                 00:00:13   00:00:17  316 M   286508 tetrahedra
+  Mesh TAU (Coarsening)                                     00:00:13   00:00:13  316 M   25578 tetrahedra
+Mesh Refinement                                                                          Manual Seed Based
+  Mesh (volume, seed)                                       00:00:01   00:00:01  58.5 M  25603 tetrahedra
+Mesh Refinement                                                                          Lambda Based
+  Mesh (lambda based)                                       00:00:01   00:00:01  55.3 M  26229 tetrahedra
+Simulation Setup                                            00:00:00   00:00:00  67 M    Disk = 0 Bytes
+Port Adaptation                                             00:00:02   00:00:02  77.5 M  Disk = 595 KBytes, 16109 tetrahedra 
+  Mesh (port based)                                         00:00:01   00:00:01  55.3 M  26569 tetrahedra
+                                                                                         4x2_array1_Length1
+Initial Meshing                                                                          Elapsed time: 00:00:38
+                                                                                         
+Adaptive Meshing                                                                         Time:  10/19/2019 08:36:45
+Adaptive Pass 1                                                                          Frequency:  28GHz
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:01   00:00:01  67.5 M  Disk = 0 Bytes
+Matrix Assembly                                             00:00:07   00:00:09  231 M   Disk = 0 Bytes, 16295 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:02   00:00:05  508 M   Disk = 1.37 KBytes, matrix size 118712 , matrix bandwidth  19.6 
+Field Recovery                                              00:00:02   00:00:06  508 M   Disk = 4.35 MBytes, 16 excitations 
+Data Transfer                                               00:00:00   00:00:00  74.5 M  Adaptive Pass 1
+                                                                                         
+Adaptive Pass 2                                                                          Frequency:  28GHz
+  Mesh (volume, adaptive)                                   00:00:01   00:00:01  63.4 M  31458 tetrahedra
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:01   00:00:01  75.2 M  Disk = 0 Bytes
+Matrix Assembly                                             00:00:07   00:00:08  280 M   Disk = 2 Bytes, 20750 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:02   00:00:08  719 M   Disk = 0 Bytes, matrix size 147806 , matrix bandwidth  20.1 
+Field Recovery                                              00:00:02   00:00:06  719 M   Disk = 2.76 MBytes, 16 excitations 
+Data Transfer                                               00:00:00   00:00:00  74.5 M  Adaptive Pass 2
+                                                                                         
+Adaptive Pass 3                                                                          Frequency:  28GHz
+  Mesh (volume, adaptive)                                   00:00:02   00:00:02  70.2 M  37685 tetrahedra
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:01   00:00:01  84.7 M  Disk = 0 Bytes
+Matrix Assembly                                             00:00:08   00:00:09  346 M   Disk = 1 Bytes, 26546 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:04   00:00:11  975 M   Disk = 0 Bytes, matrix size 185468 , matrix bandwidth  20.4 
+Field Recovery                                              00:00:03   00:00:08  975 M   Disk = 3.06 MBytes, 16 excitations 
+Data Transfer                                               00:00:00   00:00:00  74.6 M  Adaptive Pass 3
+                                                                                         
+Adaptive Pass 4                                                                          Frequency:  28GHz
+  Mesh (volume, adaptive)                                   00:00:02   00:00:02  75.1 M  43255 tetrahedra
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:01   00:00:01  92.4 M  Disk = 0 Bytes
+Matrix Assembly                                             00:00:08   00:00:10  404 M   Disk = 0 Bytes, 31880 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:05   00:00:14  1.17 G  Disk = 2 Bytes, matrix size 219886 , matrix bandwidth  20.7 
+Field Recovery                                              00:00:03   00:00:09  1.17 G  Disk = 3.08 MBytes, 16 excitations 
+Data Transfer                                               00:00:00   00:00:00  74.6 M  Adaptive Pass 4
+                                                                                         
+Adaptive Pass 5                                                                          Frequency:  28GHz
+  Mesh (volume, adaptive)                                   00:00:02   00:00:02  79 M    48732 tetrahedra
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:01   00:00:01  99.3 M  Disk = 0 Bytes
+Matrix Assembly                                             00:00:08   00:00:11  460 M   Disk = 0 Bytes, 37093 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:08   00:00:24  1.38 G  Disk = 0 Bytes, matrix size 253630 , matrix bandwidth  20.9 
+Field Recovery                                              00:00:10   00:00:27  1.38 G  Disk = 3.16 MBytes, 16 excitations 
+Data Transfer                                               00:00:01   00:00:00  74.6 M  Adaptive Pass 5
+                                                                                         
+Adaptive Pass 6                                                                          Frequency:  28GHz
+  Mesh (volume, adaptive)                                   00:00:05   00:00:05  88.3 M  57552 tetrahedra
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:03   00:00:03  112 M   Disk = 0 Bytes
+Matrix Assembly                                             00:00:09   00:00:12  552 M   Disk = 2 Bytes, 45481 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:08   00:00:22  1.71 G  Disk = 0 Bytes, matrix size 307986 , matrix bandwidth  21.1 
+Field Recovery                                              00:00:04   00:00:13  1.71 G  Disk = 3.88 MBytes, 16 excitations 
+Data Transfer                                               00:00:00   00:00:00  74.6 M  Adaptive Pass 6
+                                                                                         
+Adaptive Pass 7                                                                          Frequency:  28GHz
+  Mesh (volume, adaptive)                                   00:00:04   00:00:04  101 M   70208 tetrahedra
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:02   00:00:02  130 M   Disk = 0 Bytes
+Matrix Assembly                                             00:00:09   00:00:13  682 M   Disk = 0 Bytes, 57377 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:10   00:00:29  2.2 G   Disk = 0 Bytes, matrix size 385326 , matrix bandwidth  21.2 
+Field Recovery                                              00:00:05   00:00:16  2.2 G   Disk = 4.73 MBytes, 16 excitations 
+Data Transfer                                               00:00:00   00:00:00  74.6 M  Adaptive Pass 7
+                                                                                         
+Adaptive Pass 8                                                                          Frequency:  28GHz
+  Mesh (volume, adaptive)                                   00:00:04   00:00:04  113 M   82499 tetrahedra
+                                                                                         
+Adaptive Meshing Frequency: 28GHz on hsimlin.win.ansys.com                               
+Simulation Setup                                            00:00:02   00:00:02  150 M   Disk = 0 Bytes
+Matrix Assembly                                             00:00:10   00:00:14  811 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS4                                                 00:00:13   00:00:37  2.7 G   Disk = 0 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:06   00:00:19  2.7 G   Disk = 5.05 MBytes, 16 excitations 
+Data Transfer                                               00:00:00   00:00:00  74.6 M  Adaptive Pass 8
+                                                                                         Adaptive Passes converged
+                                                                                         
+Adaptive Meshing                                                                         Elapsed time: 00:03:45
+                                                                                         
+Frequency Sweep                                                                          Time:  10/19/2019 08:40:31
+                                                                                         
+Solution: Sweep                                                                          Interpolating HFSS Frequency Sweep, Solving Distributed - up to 4 frequencies in parallel
+                                                                                         From 26GHz to 30GHz, 101 Frequencies
+                                                                                         
+                                                                                         Frequency: 28GHz has already been solved
+                                                                                         HPC Enabled
+                                                                                         
+                                                                                         Distributed Solve Group #1
+                                                                                         
+                                                                                         Solving with MPI (IBM-Platform Computing MPI)
+                                                                                         
+Frequency: 30GHz on hsimlin.win.ansys.com                                                
+Simulation Setup                                            00:00:02   00:00:01  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:13   00:00:12  361 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:50   00:00:39  919 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  919 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         
+Frequency: 27GHz on hsimlin.win.ansys.com                                                
+Simulation Setup                                            00:00:02   00:00:02  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:13   00:00:11  361 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:50   00:00:39  919 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  919 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         
+Frequency: 26GHz on hsimlin.win.ansys.com                                                
+Simulation Setup                                            00:00:02   00:00:02  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:14   00:00:12  361 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:50   00:00:39  919 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  919 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         
+Frequency: 29GHz on hsimlin.win.ansys.com                                                
+Simulation Setup                                            00:00:02   00:00:01  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:13   00:00:11  361 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:50   00:00:39  919 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  919 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         Basis Element # 1, Frequency: 30GHz; Additional basis points are needed before the interpolation error can be computed.
+                                                                                         Basis Element # 2, Frequency: 26GHz; Additional basis points are needed before the interpolation error can be computed.
+                                                                                         Basis Element # 3, Frequency: 28GHz; S Matrix Error = 272.656%
+                                                                                         Basis Element # 4, Frequency: 27GHz; S Matrix Error =  54.831%
+                                                                                         Basis Element # 5, Frequency: 29GHz; S Matrix Error =  33.622%
+                                                                                         HPC Enabled
+                                                                                         
+                                                                                         Distributed Solve Group #2
+                                                                                         
+                                                                                         Solving with MPI (IBM-Platform Computing MPI)
+                                                                                         
+Frequency: 29.5GHz on hsimlin.win.ansys.com                                              
+Simulation Setup                                            00:00:02   00:00:02  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:30   00:00:22  362 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:49   00:00:41  919 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  919 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         
+Frequency: 27.5GHz on hsimlin.win.ansys.com                                              
+Simulation Setup                                            00:00:02   00:00:02  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:30   00:00:23  361 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:49   00:00:41  919 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  919 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         
+Frequency: 26.5GHz on hsimlin.win.ansys.com                                              
+Simulation Setup                                            00:00:02   00:00:02  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:30   00:00:22  361 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:49   00:00:41  919 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  919 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         
+Frequency: 28.5GHz on hsimlin.win.ansys.com                                              
+Simulation Setup                                            00:00:02   00:00:01  155 M   Disk = 0 Bytes, 68871 tetrahedra 
+Matrix Assembly                                             00:00:31   00:00:23  361 M   Disk = 0 Bytes, 68871 tetrahedra , 16 lumped port(s) 
+Solver DCS1                                                 00:00:49   00:00:41  920 M   Disk = 1 Bytes, matrix size 460134 , matrix bandwidth  21.3 
+Field Recovery                                              00:00:00   00:00:00  920 M   Disk = 0 Bytes, 16 excitations 
+                                                                                         Basis Element # 6, Frequency: 29.5GHz; S Matrix Error =   5.960%
+                                                                                         Basis Element # 7, Frequency: 28.5GHz; S Matrix Error =   2.530%
+                                                                                         Basis Element # 8, Frequency: 27.5GHz; S Matrix Error =   0.685%
+                                                                                         Basis Element # 9, Frequency: 26.5GHz; Scattering matrix quantities converged; Passive within tolerance
+Data Transfer                                               00:00:00   00:00:00  78.2 M  Frequency Group #2; Interpolating frequency sweep
+                                                                                         
+                                                                                         Interpolating sweep converged and is passive
+Distributed Interpolating Frequency Sweep                                                HFSS: Elapsed Time: 00:02:45
+                                                                                         
+Frequency Sweep                                                                          Elapsed time: 00:02:45
+                                                                                         
+Simulation Summary:                                                                      
+Design Validation                                                                        Elapsed time: 00:00:00, total memory: 71.2 MB
+Initial Meshing                                                                          Elapsed time: 00:00:38, total memory: 0.309 GB
+Adaptive Meshing                                                                         Elapsed time: 00:03:45, total memory: 2.697 GB
+Frequency Sweep                                                                          Elapsed time: 00:02:45, total memory: 3.591 GB
+                                                                                         
+Solution Process                                                                         Elapsed time : 00:07:10 , Hfss ComEngine Memory : 108 M
+Total                                                       00:13:23   00:14:36          Time:  10/19/2019 08:43:17, Status: Normal Completion
+                                                                                         

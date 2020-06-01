@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE wire_profile_set SYSTEM "cdnwb.dtd">
+<wire_profile_set>
+  <wire_profile_vendor>
+    <profile_vendor_name>Ansoft</profile_vendor_name>
+  </wire_profile_vendor>
+  <wire_profile_def>
+    <profile_name>J4_LH3</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>3 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH4</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>4 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH5</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>5 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH6</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>6 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH7</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>7 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH8</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>8 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH9</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>9 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH10</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>10 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH11</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>11 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH12</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>12 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH13</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>13 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH14</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>14 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J4_LH15</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+	<profile_point>
+      <horizontal_type>Length</horizontal_type>
+      <horizontal_value>0 MIL</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>15 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.5 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J5_LH5_ALPH45_BETA15</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+    <profile_point>
+      <horizontal_type>Angle</horizontal_type>
+      <horizontal_value>45.000 deg</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>5.0 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.500 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Switch</horizontal_type>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>50.000 %</horizontal_value>
+      <vertical_type>Angle</vertical_type>
+      <vertical_value>15.000 deg</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J5_LH10_ALPH45_BETA15</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+    <profile_point>
+      <horizontal_type>Angle</horizontal_type>
+      <horizontal_value>45.000 deg</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>10.0 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.500 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Switch</horizontal_type>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>50.000 %</horizontal_value>
+      <vertical_type>Angle</vertical_type>
+      <vertical_value>15.000 deg</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+  <wire_profile_def>
+    <profile_name>J5_LH15_ALPH45_BETA15</profile_name>
+    <profile_from_vendor>TRUE</profile_from_vendor>
+    <profile_direction>FORWARD</profile_direction>
+    <profile_diameter>1 MIL</profile_diameter>
+    <profile_material>GOLD</profile_material>
+    <profile_color>0</profile_color>
+    <profile_visibility>TRUE</profile_visibility>
+    <profile_point>
+      <horizontal_type>Angle</horizontal_type>
+      <horizontal_value>45.000 deg</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>15.0 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>12.500 %</horizontal_value>
+      <vertical_type>Length</vertical_type>
+      <vertical_value>0 MIL</vertical_value>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Switch</horizontal_type>
+    </profile_point>
+    <profile_point>
+      <horizontal_type>Percent</horizontal_type>
+      <horizontal_value>50.000 %</horizontal_value>
+      <vertical_type>Angle</vertical_type>
+      <vertical_value>15.000 deg</vertical_value>
+    </profile_point>
+  </wire_profile_def>
+</wire_profile_set>
