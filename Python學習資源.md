@@ -1,6 +1,8 @@
 推薦Python學習網站
+
 入門
 - https://djangogirlstaipei.herokuapp.com/tutorials/python/?os=windows
+
 基本
 - https://www.w3schools.com/python/
 - https://www.tutorialspoint.com/python/index.htm
