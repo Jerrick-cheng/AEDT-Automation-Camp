@@ -7,4 +7,5 @@ result = {}
 for i in p:
     v = oEditor.GetPropertyValue("DefinitionParameterTab", "Instance:{}".format(oDesign.GetName()), i)
     result[i] = v
-    AddWarningMessage(str(result))
+
+AddWarningMessage(str(result))
