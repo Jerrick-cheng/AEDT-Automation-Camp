@@ -19,7 +19,7 @@ Anaconda下載
 - https://regex101.com/
 
 tkinter範例代碼
-- http://zetcode.com/tutorials/ironpythontutorial/dialogs/
+- https://likegeeks.com/python-gui-examples-tkinter-tutorial/
 
 Python語法錯誤類別
 - https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-edd15e2b5d1e
