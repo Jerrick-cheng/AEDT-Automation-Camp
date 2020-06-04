@@ -14,7 +14,8 @@
 Anaconda下載
 - https://www.anaconda.com/products/individual
 
-線上正則表示法 
+正則表示法
+- http://120.105.184.250/cswang/thit/Linux/RegularExpression.htm
 - https://regex101.com/
 
 tkinter範例代碼
