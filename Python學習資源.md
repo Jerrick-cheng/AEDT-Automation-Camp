@@ -12,8 +12,8 @@
 推薦入門紙本教材 
 - [Python 技術者們：練功！](https://www.books.com.tw/products/0010834816?gclid=EAIaIQobChMIv5TC35PM6QIVEK6WCh202AozEAQYASABEgIcxvD_BwE)
 <img src="https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/083/48/0010834816.jpg&v=5d82073a&w=348&h=348 " width="120">
-Anaconda
 
+Anaconda
 - [Anaconda下載](https://www.anaconda.com/products/individual)
 
 正則表示法
