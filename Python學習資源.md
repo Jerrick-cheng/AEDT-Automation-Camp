@@ -15,8 +15,8 @@ Anaconda
 - [Anaconda下載](https://www.anaconda.com/products/individual)
 
 正則表示法
-- http://120.105.184.250/cswang/thit/Linux/RegularExpression.htm
-- https://regex101.com/
+- [中文簡介](http://120.105.184.250/cswang/thit/Linux/RegularExpression.htm)
+- [線上測試](https://regex101.com/)
 
 [tkinter範例代碼](https://likegeeks.com/python-gui-examples-tkinter-tutorial/)
 
