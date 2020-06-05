@@ -1,18 +1,18 @@
 推薦Python學習網站
 
 入門
-- https://djangogirlstaipei.herokuapp.com/tutorials/python/?os=windows
+- [Python 入門](https://djangogirlstaipei.herokuapp.com/tutorials/python/?os=windows)
 
 基本
-- https://www.w3schools.com/python/
-- https://www.tutorialspoint.com/python/index.htm
+- [W3 School](https://www.w3schools.com/python/)
+- [Tutorial Point](https://www.tutorialspoint.com/python/index.htm)
 
 
 推薦入門紙本教材 
-- https://www.books.com.tw/products/0010834816?gclid=EAIaIQobChMIv5TC35PM6QIVEK6WCh202AozEAQYASABEgIcxvD_BwE
+- [Python 技術者們：練功！](https://www.books.com.tw/products/0010834816?gclid=EAIaIQobChMIv5TC35PM6QIVEK6WCh202AozEAQYASABEgIcxvD_BwE)
 
-Anaconda下載
-- https://www.anaconda.com/products/individual
+Anaconda
+- [Anaconda下載](https://www.anaconda.com/products/individual)
 
 正則表示法
 - http://120.105.184.250/cswang/thit/Linux/RegularExpression.htm
@@ -30,8 +30,7 @@ Matplotlib圖庫
 html標籤
 - https://www.w3schools.com/tags/ref_byfunc.asp
 
-html表格產生器
-- https://www.tablesgenerator.com/html_tables#
+[html表格產生器](https://www.tablesgenerator.com/html_tables#)
 
 AEDT自動化範例影片(40+)
 - https://www.youtube.com/watch?v=oQUabN9sYb8&list=PLpbpz5laqqpGKTqmPwByUtVCVtSZwZFUb
