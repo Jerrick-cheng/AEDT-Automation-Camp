@@ -18,20 +18,15 @@ Anaconda
 - http://120.105.184.250/cswang/thit/Linux/RegularExpression.htm
 - https://regex101.com/
 
-tkinter範例代碼
-- https://likegeeks.com/python-gui-examples-tkinter-tutorial/
+[tkinter範例代碼](https://likegeeks.com/python-gui-examples-tkinter-tutorial/)
 
-Python語法錯誤類別
-- https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-edd15e2b5d1e
+[Python語法錯誤類別](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-edd15e2b5d1e)
 
-Matplotlib圖庫
-- https://matplotlib.org/3.1.1/gallery/index.html
+[Matplotlib圖庫](https://matplotlib.org/3.1.1/gallery/index.html)
 
-html標籤
-- https://www.w3schools.com/tags/ref_byfunc.asp
+[html標籤](https://www.w3schools.com/tags/ref_byfunc.asp)
 
 [html表格產生器](https://www.tablesgenerator.com/html_tables#)
 
-AEDT自動化範例影片(40+)
-- https://www.youtube.com/watch?v=oQUabN9sYb8&list=PLpbpz5laqqpGKTqmPwByUtVCVtSZwZFUb
+[AEDT自動化範例影片(40+)](https://www.youtube.com/watch?v=oQUabN9sYb8&list=PLpbpz5laqqpGKTqmPwByUtVCVtSZwZFUb)
 
