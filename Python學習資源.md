@@ -2,6 +2,7 @@
 
 入門
 - [Python 入門](https://djangogirlstaipei.herokuapp.com/tutorials/python/?os=windows)
+- [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 
 基本
 - [W3 School](https://www.w3schools.com/python/)
