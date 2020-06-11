@@ -53,5 +53,5 @@
 - random.uniform()
 
 ## Iron Python模組
-### [clr module]
+### clr module
 - clr.AddReference('IronPython.Wpf')
