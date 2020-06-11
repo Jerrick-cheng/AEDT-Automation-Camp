@@ -1,0 +1,20 @@
+### [string](https://www.w3schools.com/python/python_ref_functions.asp)
+- s.format()
+- s.replace()
+- s.strip()
+- s.split()
+- s.join()
+
+### [list](https://www.w3schools.com/python/python_ref_list.asp)
+- l.append()
+- l.copy()
+- l.sort()
+
+### [dictionary](https://www.w3schools.com/python/python_ref_dictionary.asp)
+- d.keys()
+
+### [file](https://www.w3schools.com/python/python_ref_file.asp)
+- f.read()
+- f.readlines()
+- f.write()
+- f.writelines()
