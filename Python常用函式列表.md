@@ -1,5 +1,5 @@
 
-## [內建函式](https://docs.python.org/3/library/functions.html)
+## [內建函式](https://www.w3schools.com/python/python_ref_functions.asp)
 - abs()
 - complex()
 - dir()
@@ -21,7 +21,7 @@
 
 ## Python內建模組
 
-### [math module](https://docs.python.org/3/library/math.html)
+### [math module](https://www.w3schools.com/python/module_math.asp)
 - math.log10()
 - math.sqrt()
 - math.sin()
@@ -48,7 +48,7 @@
 ### [time module](https://docs.python.org/3/library/time.html)
 - time.time()
 
-### [random module](https://docs.python.org/3/library/random.html)
+### [random module](https://www.w3schools.com/python/module_random.asp)
 - random.randint()
 - random.uniform()
 
