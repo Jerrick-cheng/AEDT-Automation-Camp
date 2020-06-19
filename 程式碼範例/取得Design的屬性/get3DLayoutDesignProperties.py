@@ -1,3 +1,4 @@
+# only for HFSS 3D Layout
 oProject = oDesktop.GetActiveProject()
 oDesign = oProject.GetActiveDesign()
 oEditor = oDesign.GetActiveEditor()
