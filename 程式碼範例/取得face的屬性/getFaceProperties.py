@@ -49,7 +49,18 @@ class face():
     def __getEdgeCount(self):
         self.edgecount = len(oEditor.GetEdgeIDsFromFace(self.id))
         return self.edgecount
- 
+
+    def getAngle(self, other):
+        x0, y0, z0 = self.normal_vector
+        x1, y1, z1 = other.normal_vector
+        
+        return round(math.degrees(math.acos(x0*x1+y0*y1+z0*z1)),1)
+    
+    def getCenterGap(self, other):
+        x0, y0, z0 = self.center
+        x1, y1, z1 = other.center        
+        
+        return math.sqrt(pow(x0-x1, 2)+pow(y0-y1, 2)+pow(z0-z1, 2))    
         
 def getModelFaces(objectname):
     result = []
