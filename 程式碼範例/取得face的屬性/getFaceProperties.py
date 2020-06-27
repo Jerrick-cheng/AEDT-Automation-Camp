@@ -15,7 +15,22 @@ class face():
                         'center':self.__getCenter,
                         'normal_vector':self.__getNormalVector,
                         'edgecount':self.__getEdgeCount,}
+                        
+    def __eq__(self, other):
+        if self.id == other.id:
+            return True
+        else:
+            return False
+            
+    def __ne__(self, other):
+        return not self.__eq__(other)
+            
+    def __str__(self):
+        return str(self.id)     
         
+    def __repr__(self):
+        return str(self.id)
+    
     def __getattr__(self, x):
         try:
             return self.method[x]()
@@ -60,7 +75,12 @@ class face():
         x0, y0, z0 = self.center
         x1, y1, z1 = other.center        
         
-        return math.sqrt(pow(x0-x1, 2)+pow(y0-y1, 2)+pow(z0-z1, 2))    
+        return math.sqrt(pow(x0-x1, 2)+pow(y0-y1, 2)+pow(z0-z1, 2))
+
+    def getCommonEdges(self, other):
+        self_edges = oEditor.GetEdgeIDsFromFace(self.id)
+        other_edges = oEditor.GetEdgeIDsFromFace(other.id)
+        return list(set(self_edges).intersection(other_edges))
         
 def getModelFaces(objectname):
     result = []
